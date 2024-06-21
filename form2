@@ -16,7 +16,8 @@
     }
     main{
         margin-left: 20%;
-        margin-right:20% ;
+          max-width: 40%;
+        min-width: 30%;
         border:1px solid green;
         padding: 20px;
         border-radius: 5px;
